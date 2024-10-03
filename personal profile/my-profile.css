@@ -1,0 +1,118 @@
+  p{
+  margin-bottom:0;
+  margin-top:0;
+  }	
+  body{
+  background-color:#3B4047;
+  padding-left:200px;
+  padding-right:200px;
+  padding-top:30px;
+  padding-bottom:50px;
+  }
+  
+  #first-background{
+  width:1000px;
+  height:600px;
+  background-color:#232B35;
+  border-radius:50px;
+  position:fixed;
+  }
+  
+  #second-background{
+  width:950px;
+  height:550px;
+  background-color:#1B1F24;
+  border-radius:50px 50px 0 0;
+  padding-left:50px;
+  padding-top:10px;
+  }
+  
+  #profile-name{
+ color:white;
+  font-size:25px;
+ display:inline-block;
+  }
+  #profile-logo{
+ color:#085DDF;
+  font-size:25px;
+ display:inline-block;
+ margin-left:5px;
+ font-weight:bold;
+  }
+  
+  #top-menu{
+ color:#EBEBEB;
+  font-size:16px;
+ display:inline-block;
+ margin-left:500px;
+ position:relative;
+ top:-15px;
+ }
+ a{
+ color:white;
+ text-decoration:none;
+ }
+   #main-logo{
+ border-radius:360px;
+  margin-left:550px;
+ display:inline-block;
+ margin-top:-130px;
+ 
+ 
+  }
+   #thick-line{
+ background-color:white;
+ width:100px;
+ display:inline-block;
+ margin-lext:40px;
+ height:3px;
+ position:relative;
+ top:80px;
+  }
+  
+  #salutation{
+  
+ color:white;
+ width:300px;
+ display:inline-block;
+font-size:30px;
+position:relative;
+top: 70px;
+
+  }
+  #nice{
+  border-top: 3px solid #1B1F24;
+  }
+  #DASH{
+ background-color: white;
+ width:55px;
+ height:3px;
+ position:relative;
+ top:50px;
+  }
+  
+  #description{
+  color: white;
+ width:470px;
+position:relative;
+ top:80px;
+  }
+  #social-media{
+  margin-left:600px;
+  color:white;
+  margin-top:85px;
+  }
+  .social-handles{
+  margin-top:10px;
+  border-radius:360px;
+  width:30px;
+  }
+  #arrow{
+  position:relative;
+  top:5px;
+  }
+  #laptop{
+  position:relative;
+  top:-170px;
+  border-radius: 20px 20px 0 0;
+  }
